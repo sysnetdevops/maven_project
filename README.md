@@ -1,2 +1,3 @@
-# maven_project
-Jenkins will deploy the maven installation in Ubuntu 
+# Sample Webapp For DevOps Project
+
+It is a sample java servlet webapp for DevOps Project
